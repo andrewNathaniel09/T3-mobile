@@ -1,0 +1,11 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="12dp"
+    android:background="@drawable/bg_toast"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvToast"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp"
+        android:text="Pesan"/>
+</LinearLayout>

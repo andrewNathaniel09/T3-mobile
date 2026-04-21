@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base Theme -->
+    <style name="Base.Theme.T3_Moblie" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <!-- Theme yang dipakai aplikasi -->
+    <style name="Theme.T3_Moblie" parent="Base.Theme.T3_Moblie">
+        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorSecondary">#3F51B5</item>
+    </style>
+
+</resources>
